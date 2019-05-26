@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for your use.<h4>
+<h4 align="center">Your Right to be Informed.<h4>
 
 <div align="center">
  
