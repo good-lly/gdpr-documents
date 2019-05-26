@@ -38,7 +38,7 @@ Standard Readme follows the [Contributor Covenant](http://contributor-covenant.o
 
 This project exists thanks to all the people who contribute. 
 - [Ondřej Zemek](https://www.linkedin.com/in/ondrejzemek)
-- Jan Kovařík
+- Mgr. Jan Kovařík
 - [Mgr. Michal Beluský](https://cz.linkedin.com/in/michalbelusky)
 
 PS: looking for translators into all of the European languages.
