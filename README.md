@@ -15,15 +15,9 @@
   </a>
 
  <!-- issues -->
-  <a href="https://github.com/good-lly/gdpr-documents/issues">
-    <img src="https://img.shields.io/github/issues/dhaval-mehta/url-to-google-drive.svg"
-      alt="Issues" />
-  </a>
+  [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/good-lly/gdpr-documents/issues/)
   
  <!-- License --> 
-  <a href="https://raw.githubusercontent.com/good-lly/gdpr-documents/master/LICENSE">
-    <img src="https://img.shields.io/github/license/dhaval-mehta/url-to-google-drive.svg"
-      alt="License MIT" />
-  </a>
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/good-lly/gdpr-documents/master/LICENSE)
 </div>
   
