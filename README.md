@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Your Right to be Informed.<h4>
+<h4 align="center">Your Right to be Informed and Erased.<h4>
 
 <div align="center">
  
