@@ -9,7 +9,7 @@
 <div align="center">
  
   <!-- Contributions -->
-  <a href="">
+  <a href="https://github.com/good-lly/gdpr-documents/issues/">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
       alt="Contributions welcome" />
   </a>
