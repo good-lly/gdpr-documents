@@ -7,7 +7,7 @@
 **Street/Address**
 **ZIP, City**
 **Country**
-**Your email**
+**Your e-mail**
 **Your phone number**
 
 In​ **City**, **Day** of ​**Month** **This year**
@@ -30,7 +30,7 @@ Please advise as to the following:
    systems, whether or not contained in databases, and including e-mail, documents on
    your networks, or voice or other media that you may store.
    b. Additionally, please advise me in which countries my personal data is stored,
-   or accessible from. In case you make use of cloud services to store or process my data,
+   or accessible from. If you make use of cloud services to store or process my data,
    please include the countries in which the servers are located where my data are or were
    (in the past 12 months) stored. Should the personal data be stored on servers outside
    the EEA, please provide such information.
@@ -48,7 +48,7 @@ Please advise as to the following:
    have disclosed my personal data.
    b. Please also identify in which jurisdictions do the third parties that you have
    identified in 1(a) above that these third parties with whom you have or may have shared
-   my personal data, from which these third parties have store or can access my personal
+   my personal data, from which these third parties have stored or can access my personal
    data or from which jurisdictions are my personal data accessed. Please also provide
    insight in the legal grounds for transferring my personal data to these jurisdictions.
    Where you have done so, or are doing so, on the basis of appropriate safeguards,
@@ -116,16 +116,16 @@ iv. Any other means
    personal data inappropriately, or if you are unable to determine this, of any customers, in
    the past twelve months.
    c. Please advise as to what training and awareness measures you have taken
-   in order to ensure that employees and contractors are accessing and processing my
+   to ensure that employees and contractors are accessing and processing my
    personal data in conformity with the General Data Protection Regulation.
 
 Finally, I would like you to be aware at the outset, that I anticipate reply to my request within one
 month as required under Article 12 GDPR, failing which I will be forwarding my inquiry with a
-letter of complaint to the relevant data protection authorities. In case you will not be able to
-respond to my request within specified date and will, under the GDPR provided measures, be
+letter of complaint to the relevant data protection authorities. If you will not be able to
+respond to my request within the specified date and will, under the GDPR provided measures, be
 aiming to prolong such term because of the complexity of my request, please respond to my
 questions in the maximum possible extent during the original one month term. Should you
-require any additional information from myself in order identify me as the subject of data being
+require any additional information from myself to identify me as the subject of data being
 processed by you, please contact me immediately.
 
 Yours Sincerely,
