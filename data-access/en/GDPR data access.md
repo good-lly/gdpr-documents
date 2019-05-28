@@ -1,14 +1,14 @@
-**Company name**
-**Street/Address**
-**ZIP, City**
-**Country**
+**Company name**    
+**Street/Address**    
+**ZIP, City**    
+**Country**    
 
-**Your name**
-**Street/Address**
-**ZIP, City**
-**Country**
-**Your email**
-**Your phone number**
+**Your name**    
+**Street/Address**    
+**ZIP, City**    
+**Country**    
+**Your email**    
+**Your phone number**    
 
 In​ **City**, **Day** of ​**Month** **This year**
 
@@ -131,10 +131,10 @@ processed by you, please contact me immediately.
 Yours Sincerely,
 ..............................
 
-**Personal identification information**
-Temporary residence: **fill the information \*optional**
-Permanent residence: **fill the information \*optional**
-Personal identification number (Birth number):​ **fill the information \*optional**
-Date of birth: **fill the information \*optional**
-ID number: **fill the information \*optional**
-Passport number: **fill the information \*optional**
+**Personal identification information**    
+Temporary residence: **fill the information \*optional**    
+Permanent residence: **fill the information \*optional**    
+Personal identification number (Birth number):​ **fill the information \*optional**    
+Date of birth: **fill the information \*optional**    
+ID number: **fill the information \*optional**    
+Passport number: **fill the information \*optional**    
