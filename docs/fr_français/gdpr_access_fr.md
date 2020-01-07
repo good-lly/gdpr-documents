@@ -158,17 +158,13 @@ Cordialement,
 
 ............................................................
 
-**Datos de identificación personal:**  
-**[rellena los datos *opcional]**
+**Données d&#39;identification personnelles:**  
+**[veuillez remplir les données \* facultatif]**
 
-Residencia temporal:
-
-Residencia permanente:
-
-Número de identificación personal:
-
-Fecha de nacimiento:
-
-Número de documento de identidad:
-
-Número de pasaporte:
+Séjour temporaire :
+Séjour permanent :
+Numéro d&#39;identification personnel (numéro d’identification personnel d’une personne
+physique) :
+Date de naissance :
+Numéro de carte d&#39;identité :
+Numéro de passeport :

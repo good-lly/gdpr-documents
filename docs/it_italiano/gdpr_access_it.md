@@ -155,16 +155,11 @@ Cordialmente
 ............................................................
 
 **Dati personali identificativi:**  
-**[compilare i dati *facoltativo]**
+**[compilare i dati \*facoltativo]**
 
 Soggiorno:
-
 Residenza:
-
 Numero personale identificativo (codice anagrafico):
-
 Data di nascita:
-
 Numero Carta d’Identità:
-
 Numero Passaporto:

@@ -42,16 +42,11 @@ Atentamente,
 ............................................................
 
 **Datos de identificación personal:**  
-**[rellena los datos *opcional]**
+**[rellena los datos \*opcional]**
 
 Residencia temporal:
-
 Residencia permanente:
-
 Número de identificación personal:
-
 Fecha de nacimiento:
-
 Número de documento de identidad:
-
 Número de pasaporte:

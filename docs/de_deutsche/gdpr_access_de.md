@@ -107,16 +107,11 @@ Mit freundlichen Grüßen
 ............................................................
 
 **Persönliche Identifikationsangaben**  
-**[Angaben ausfüllen *fakultativ]**
+**[Angaben ausfüllen \*fakultativ]**
 
 Vorübergehender Aufenthaltsort:
-
 Ständiger Wohnsitz:
-
 Persönliche Identifikationsnummer (Geburtsnummer):
-
 Geburtsdatum:
-
 Personalausweis-Nr.:
-
 Reisepass-Nr.:

@@ -43,13 +43,8 @@ Yours Sincerely,
 **[fill the information \*optional]**
 
 Temporary residence:
-
 Permanent residence:
-
 Personal identification number (Birth number):​
-
 Date of birth:
-
 ID number:
-
 Passport number:

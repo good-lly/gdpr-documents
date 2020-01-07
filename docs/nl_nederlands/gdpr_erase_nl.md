@@ -46,16 +46,11 @@ Hoogachtend,
 ............................................................
 
 **Persoonlijke identificatie informatie**  
-**[vul in *optioneel]**
+**[vul in \*optioneel]**
 
 Tijdelijke verblijfsplaats:
-
 Permanente verblijfsplaats:
-
 Persoonlijk identificatienummer (Rijksregister/Persoonsnummer):
-
 Geboortedatum:
-
 ID kaartnummer:
-
 Paspoort nummer:

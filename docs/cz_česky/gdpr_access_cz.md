@@ -154,14 +154,10 @@ S pozdravem,
 ............................................................
 
 **Osobní identifikační údaje**  
-**[vyplňte údaje - *nepovinné]**
+**[vyplňte údaje - \*nepovinné]**
 
 Dočasný pobyt:
-
 Trvalý pobyt:
-
 Osobní identifikační číslo (Rodné číslo):
-
 Datum narození:
-
 Číslo občanského průkazu:

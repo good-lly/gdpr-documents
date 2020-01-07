@@ -137,16 +137,11 @@ Z wyrazami szacunku,
 ............................................................
 
 **Dane osobowe:**  
-**[podać adres *nie dotyczy]**
+**[podać adres \*nie dotyczy]**
 
 Adres tymczasowy:
-
 Adres stałego zamieszkania:
-
 Numer identyfikacyjny (PESEL):
-
 Data urodzenia:
-
 Numer dowodu osobistego:
-
 Numer paszportu:

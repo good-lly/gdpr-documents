@@ -49,17 +49,12 @@ Sincères salutations,
 ............................................................
 
 **Données d&#39;identification personnelles:**  
-**[veuillez remplir les données * facultatif]**
+**[veuillez remplir les données \* facultatif]**
 
 Séjour temporaire :
-
 Séjour permanent :
-
 Numéro d&#39;identification personnel (numéro d’identification personnel d’une personne
 physique) :
-
 Date de naissance :
-
 Numéro de carte d&#39;identité :
-
 Numéro de passeport :
