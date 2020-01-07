@@ -43,6 +43,7 @@ Prosím, informujte mě o následujícím:
 
 2. Uveďte prosím podrobný seznam konkrétních účelů, pro které moje osobní údaje
    zpracováváte.
+
 3. Poskytněte mi, prosím, seznam všech třetích stran, se kterými jste sdíleli (nebo jste mohli
    sdílet) mé osobní údaje. Pokud tyto třetí osoby dále poskytly nebo mohly poskytovat mé
    osobní údaje jinému subjektu, uveďte také, kdo jsou nebo byly tyto jiné subjekty.
@@ -68,10 +69,12 @@ Prosím, informujte mě o následujícím:
 5. Pokud navíc shromažďujete osobní údaje o mé osobě z jakéhokoli zdroje jiného než přímo
    od mé osoby, poskytněte mi všechny informace o jejich zdroji, jak je uvedeno v článku 14
    GDPR.
+
 6. Pokud o mé osobě nebo v souvislosti s mou osobou dochází k automatizovanému
    rozhodování, včetně profilování, ať už na základě článku 22 GDPR, uveďte, prosím,
    informace týkající se základů způsobu provádění takových automatizovaných rozhodnutí a
    významu výsledků takovéhoto automatizovaného zpracování.
+
 7. Dále mi poskytněte informaci o to, zda mé osobní údaje byly nebo nebyly Vaší společností
    v minulosti zpřístupněny třetím osobám v důsledku porušení zabezpečení osobních údajů.
    a) Pokud ano, informujte mě o následujících podrobnostech o každém takovém porušení:

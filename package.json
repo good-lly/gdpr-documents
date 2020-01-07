@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "markdown-pdf": "^10.0.0"
+    "markdown-pdf": "^10.0.0",
+    "remarkable-classy": "^0.0.1"
   }
 }

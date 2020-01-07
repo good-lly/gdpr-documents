@@ -22,7 +22,17 @@ var mdDocs = [
     return d.replace('.md', '.pdf');
   });
 
-markdownpdf()
+var options = {
+  paperFormat: 'Legal',
+  remarkable: {
+    html: true,
+    breaks: true,
+    plugins: [require('remarkable-classy')],
+    syntax: ['footnote', 'sup', 'sub'],
+  },
+};
+
+markdownpdf(options)
   .from(mdDocs)
   .to(pdfDocs, function() {
     pdfDocs.forEach(function(d) {

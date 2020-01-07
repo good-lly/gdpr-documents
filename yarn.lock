@@ -566,6 +566,11 @@ readable-stream@^2.2.2:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
+remarkable-classy@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/remarkable-classy/-/remarkable-classy-0.0.1.tgz#b8f7ec700dafc51c8c1359b7e614eac86b812103"
+  integrity sha1-uPfscA2vxRyME1m35hTqyGuBIQM=
+
 remarkable@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/remarkable/-/remarkable-2.0.0.tgz#795f965bede8300362ce51a716edc322d9e7a4ca"
