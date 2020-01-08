@@ -33,7 +33,7 @@ After [one of the Equifax data breaches](https://techcrunch.com/2018/12/10/equif
 
 ## Documents (in 8 EU languages)
 
-🇬🇧 Engslih
+🇬🇧 English
 
 https://github.com/good-lly/gdpr-documents/tree/master/docs/en_english
 
