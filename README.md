@@ -75,7 +75,7 @@ Standard Readme follows the [Contributor Covenant](http://contributor-covenant.o
 
 This project exists thanks to contributors.
 
-- [Ondřej Zemek](https://www.linkedin.com/in/ondrejzemek)
+- [Mgr. Ondřej Zemek](https://www.linkedin.com/in/ondrejzemek)
 - Mgr. Jan Kovařík
 - [Mgr. Michal Beluský](https://cz.linkedin.com/in/michalbelusky)
 - [Nicolas Verlhiac](https://github.com/nicolasverlhiac)
