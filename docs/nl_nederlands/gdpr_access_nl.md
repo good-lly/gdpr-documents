@@ -37,13 +37,13 @@ Gelieve informatie te verstrekken over de volgende zaken:
 
    b) Informatie over in welke rechtsgebieden de derde partijen die u in 3(a) hierboven heeft vastgesteld zich bevinden alsmede uit welke rechtsgebieden mijn persoonlijke gegevens opgeslagen, geopend of verwerkt worden. Gelieve ook informatie te geven over de juridische rechtsbasis voor de overdracht van mijn persoonlijke gegevens naar deze rechtsgebieden. Indien u dit heeft gedaan, of dit doet, op basis van passende waarborgen, gelieve een kopie te verstrekken. 
 
-   c) Aanvullende informatie over welke passende waarborgen op grond van artikel 46 van de AVG zijn   getroffen met betrekking tot deze derde partijen die u hebt vastgesteld met betrekking tot de overdracht van mijn persoonlijke gegevens.
+   c) Aanvullende informatie over welke passende waarborgen op grond van artikel 46 van de AVG zijn getroffen met betrekking tot deze derde partijen die u hebt vastgesteld met betrekking tot de overdracht van mijn persoonlijke gegevens.
 
 4. Informatie over de duur van de opslag van mijn persoonlijke gegevens, indien bewaring is gebaseerd op de categorie van persoonlijke gegevens, gelieve te verstrekken voor welke duur elke categorie wordt bewaard. 
 
 5. Indien u persoonlijke gegevens over mij verzamelt uit een andere bron dan ikzelf, geliefe mij dan alle informatie over hun bron te verstrekken, zoals bedoeld in artikel 14 van de AVG.
 
-6. Indien geautomatiseerde beslissingen over mij neemt, inclusief profilering, al dan niet op basis van artikel 22 van de AVG, geef mij dan informatie over de basis voor de logica bij het nemen van dergelijke geautomatiseerde beslissingen en de betekenis en gevolgen van een dergelijke verwerking.
+6. Indien u geautomatiseerde beslissingen over mij neemt, inclusief profilering, al dan niet op basis van artikel 22 van de AVG, gelieve informatie te verstrekken over de basis voor de logica bij het nemen van dergelijke geautomatiseerde beslissingen en de betekenis en gevolgen van een dergelijke verwerking.
 
 7. Bevestiging van het al dan niet onopzettelijk verstrekken van mijn persoonsgegevens door uw organisatie in het verleden, of als gevolg van een beveiligingsinbreuk of een datalek. 
 
