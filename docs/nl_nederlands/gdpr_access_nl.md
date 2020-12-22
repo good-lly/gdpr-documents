@@ -10,6 +10,7 @@
 **Emailadres:**  
 **Telefoonnummer:**
 
+
 In **................ (Plaats)**, op **................ (Datum)**
 
 **Verzoek met betrekking tot inzage persoonsgegevens**
