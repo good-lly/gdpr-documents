@@ -82,6 +82,7 @@ This project exists thanks to contributors.
 - [Oliver Benton](https://github.com/bentonoliver)
 - [Roman Zipp](https://github.com/romanzipp)
 - [Justin Lee](https://github.com/justin0022)
+- [Hugo22O](https://github.com/Hugo22O)
 
 Thank you all for contributing, helping & sharing with others.
 
