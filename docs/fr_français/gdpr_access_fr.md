@@ -1,158 +1,88 @@
-**Razón social:**  
-**Calle, Dirección:**  
-**Código postal, Ciudad:**  
-**País:**
+**Dénomination de la société:**  
+**Rue, adresse:**  
+**Code postal, ville:**  
+**Pays:**
 
-**Nombre:**  
-**Calle, Dirección:**  
-**Código postal, Ciudad:**  
-**País:**  
-**Su correo electrónico:**  
-**Número de teléfono:**
+**Nom:**  
+**Rue, adresse:**  
+**Code postal, ville:**  
+**Pays:**
+**E-mail:**  
+**Numéro de téléphone:**
 
-En **................ (Ciudad)**, **................ (Fecha)**
+À **................ (Ville)**, **................ (Date)**
 
-**Asunto: Solicitud de acceso a datos personales**
+**Demande d'accès aux données personnelles**
 
-Estimados señores:
+A qui de droit,
 
-Les escribo por su posición de encargados del tratamiento de datos personales en su compañía y
-por la presente solicitud les pido que me faciliten acceso a mis datos personales de conformidad
-con el artículo 15 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de
-abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de
-datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva
-95/46/CE (en adelante el «RGPD»).
-Adjunto a esta carta una copia de los documentos necesarios para verificar mi identidad.
-Por favor, infórmenme sobre lo siguiente:
+Je vous écris en votre qualité de délégué à la protection des données de votre entreprise et vous adresse la présente demande d'accès à mes données personnelles conformément à l'article 15 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (le "RPDP"). Je joins une copie des documents nécessaires à la vérification de mon identité.
 
-1. Infórmenme si su compañía trata mis datos personales en alguna manera. Y si trata
-   algunos de mis datos personales, les pido que me proporcionen la información sobre las
-   categorías de datos personales que tratan.
+Veuillez indiquer ce qui suit :
 
-   a) Les pido que me comuniquen qué informaciones sobre mí conservan en sus sistemas
-   de información, tanto contenidos en unas bases de datos o no, incluido el correo
-   electrónico, sus documentos internos o medios de voz u otros que pueden conservar.
+1. Veuillez confirmer si certaines de mes données personnelles sont traitées ou non. Si des données personnelles me concernant font l'objet d'un traitement, veuillez me fournir des informations sur les catégories de données à caractère personnel qui font l'objet d'un traitement.
 
-   b) Les pido que me comuniquen en qué países se conservan mis datos personales y de qué países son accesibles. Si utilizan los servicios de nube para la conservación o tratamiento de mis datos personales, enumeren los países en los cuales se encuentran los servidores que contienen mis datos personales y en los que se mis datos guardaron en los últimos 12 meses. Si estos datos personales están o han estado conservados en servidores fuera del Espacio Económico Europeo, por favor, comuniquenme esta información.
+    a. En particulier, veuillez me dire ce que vous savez à mon sujet dans vos systèmes d'information, qu'ils soient ou non contenus dans des bases de données, y compris le courrier électronique, les documents sur vos réseaux, la voix ou tout autre support que vous pouvez stocker.
 
-   c) Les pido que me proporcionen una copia o que me faciliten acceso a mis datos personales que conservan o que tratan. Si es posible, proporcionenme la información de la fecha exacta cuando recibieron estos datos.
+    b. En outre, veuillez m'indiquer dans quels pays mes données personnelles sont stockées ou accessibles. Si vous utilisez les services cloud pour stocker ou traiter mes données, veuillez indiquer les pays dans lesquels se trouvent les serveurs où mes données sont ou ont été stockées (au cours des 12 derniers mois). Si les données personnelles sont stockées sur des serveurs en dehors de l'UE, veuillez fournir ces informations.
 
-2. Proporcionenme una lista detallada de los fines específicos para los que procesan mis datos personales.
+    c. Veuillez me fournir une copie de mes données personnelles que vous avez ou que vous êtes en train de traiter et, si possible, des informations concernant la date exacte à laquelle vous avez obtenu ces données particulières, ou me donner accès à ces données.
 
-3. Les pido que me proporcionen la lista de todos los terceros con los que han compartido (o
-   han podido compartir) mis datos personales. Si estos terceros han proporcionado o han
-   podido proporcionar mis datos personales a otras entidades, les pido que me comuniquen
-   qué son o fueron estas entidades.
+2. Veuillez me fournir une liste détaillée des finalités spécifiques du traitement de mes données personnelles.
 
-   a) Si no pueden identificar con certeza a los terceros a los que han transmitido mis datos
-   personales, les pido que me proporcionen una lista de terceros a los que posiblemente
-   han podido comunicar o transmitir mis datos personales.
+3. Veuillez fournir une liste de tous les tiers avec lesquels vous avez (ou avez pu) partager mes données personnelles. Si ces tiers ont fourni mes données personnelles à un autre sujet, veuillez indiquer qui sont ces sujets.
 
-   b) También indiquen a qué jurisdicción pertenecen los terceros con los que ha compartido
-   o ha podido compartir mis datos personales (ver arriba) o en la que estos terceros
-   conservan o han conservado mis datos personales o de la que estos terceros han
-   facilitado acceso a mis datos personales. Por favor, proporcionen también las
-   informaciones sobre las bases jurídicas para la transmisión de mis datos personales a
-   estas jurisdicciones. Si lo han hecho o lo harán, basándose en garantías adecuadas,
-   proporcionenme su copia.
+    a. Si vous ne pouvez pas identifier avec certitude les tiers auxquels vous avez communiqué mes données personnelles, veuillez fournir une liste des tiers à qui vous avez pu communiquer mes données personnelles.
 
-   c) Además les pido, que me proporcionen la información sobre qué medidas de
-   protección tienen adoptado o adoptó en relación con el RGPD o en relación con
-   terceros que han identificado en relación con la transmisión de mis datos personales.
+    b. Veuillez également indiquer dans quelles juridictions les tiers que vous avez identifiés au point 1(a) ci-dessus et avec lesquels vous avez ou avez pu partager mes données personnelles, à partir desquels ces tiers ont stocké ou peuvent accéder à mes données personnelles ou à partir desquelles mes données personnelles ont été consultées, sont-ils également identifiés. Veuillez également donner un aperçu des motifs juridiques du transfert de mes données personnelles vers ces juridictions. Si vous l'avez fait, ou si vous le faites, sur la base de garanties appropriées, veuillez en fournir une copie.
 
-4. Indiquen cuánto tiempo están conservando mis datos personales y si su conservación
-   depende de su categoría, indiquen cuánto tiempo se conservará cada categoría.
+    c. En outre, j'aimerais savoir quelles garanties appropriées ont été mises en place, conformément à l'article 46 du GDPR, à l'égard de ces tiers que vous avez identifiés dans le cadre du transfert de mes données personnelles.
 
-5. Si además recogen mis datos personales procedentes de cualquier fuente que no sea
-   directamente de mí, proporcionenme todas las informaciones sobre esta fuente de
-   conformidad con el artículo 14 del RGPD.
+4. Veuillez indiquer pendant combien de temps vous conservez mes données personnelles, et si la conservation est basée sur la catégorie de données personnelles, veuillez indiquer pendant combien de temps chaque catégorie est conservée.
 
-6. Si se toman decisiones automatizadas sobre mí o en relación conmigo, incluida la elaboración de perfiles, según el artículo 22 del RGPD, indique, por favor, las informaciones básicas sobre la manera de toma de estas decisiones automatizadas y el significado de los resultados del dicho tratamiento automatizado.
+5. Si vous recueillez en outre des données à caractère personnel me concernant auprès d'une source autre que moi-même, veuillez me fournir toutes les informations relatives à leur source, conformément à l'article 14 du RPDP.
 
-7) Además les pido que me proporcionen la información sobre si su compañía ha o no ha facilitado acceso a mis datos personales a terceros debido a una violación de la seguridad de los datos personales.
+6. Si vous prenez des décisions automatisées à mon sujet, y compris le profilage, que ce soit ou non sur la base de l'article 22 du RDPPH, veuillez me fournir des informations concernant la logique sur laquelle repose la prise de telles décisions automatisées, ainsi que l'importance et les conséquences de ce traitement.
 
-   a) Si es así, infórmame sobre los siguientes detalles de cada una de tales violaciones:
+7. J'aimerais savoir si mes données personnelles ont été divulguées par inadvertance par votre entreprise dans le passé ou à la suite d'une atteinte à la sécurité ou à la vie privée.
 
-   i. una descripción general de lo que sucedió;
+    a. Dans l'affirmative, veuillez fournir les détails suivants sur chacune de ces infractions :
+    i. une description générale de ce qui s'est passé ;
+    ii. la date et l'heure de l'atteinte (ou la meilleure estimation possible) ;
+    iii. la date et l'heure de la découverte de la brèche ;
+    iv. la source de la violation (soit votre propre organisation, soit un tiers à qui vous avez transféré mes données personnelles) ;
+    v. details of my personal data that was disclosed;
+    vi. l'évaluation que fait votre entreprise du risque de préjudice que l'atteinte à la vie privée pourrait me causer ;
+    vii. une description des mesures prises ou qui seront prises pour empêcher tout autre accès non autorisé à mes données personnelles ;
+    viii. mes coordonnées afin que je puisse obtenir plus d'information et d'aide relativement à une telle violation;
+    ix. et des renseignements et des conseils sur ce que je peux faire pour me protéger contre tout préjudice, y compris le vol d'identité et la fraude.
 
-   ii. la fecha y hora de la violación (o la mejor estimación posible);
+b. Si vous n'êtes pas en mesure d'affirmer avec certitude qu'une telle exposition a eu lieu, grâce à l'utilisation de technologies appropriées, veuillez indiquer quelles mesures d'atténuation vous avez prises, par exemple
+i. Cryptage de mes données personnelles;
+ii. Stratégies de minimisation des données;
+iii. Anonymisation ou pseudonymisation;
+iv. ou, Tout autre moyen;
 
-   iii. la fecha y hora cuando se descubrió la violación;
+8. J'aimerais connaître vos politiques et normes en matière d'information que vous suivez en ce qui concerne la protection de mes données personnelles, par exemple si vous adhérez à ISO27001 pour la sécurité de l'information, et plus particulièrement, vos pratiques en ce qui concerne ce qui suit :
 
-   iv. la fuente de la violación (o por su compañía o por un tercero al que proporcionó mis
-   datos personales);
+    a. Veuillez m'informer si vous avez sauvegardé mes données personnelles sur bande, disque ou autre support, et où elles sont stockées et comment elles sont sécurisées, y compris les mesures que vous avez prises pour protéger mes données personnelles contre la perte ou le vol, et si cela inclut le cryptage.
 
-   v. detalles sobre mis datos personales que han sido publicados;
+    b. Veuillez également indiquer si vous avez mis en place une technologie qui vous permet, avec une certitude raisonnable, de savoir si mes données personnelles ont été divulguées ou non, y compris, mais sans s'y limiter, ce qui suit :
+    i. Systèmes de détection d'intrusion ;
+    ii. Technologies de pare-feu ;
+    iii. Technologies d'accès et de gestion des identités ;
+    iv. Outils d'audit et/ou de sécurité des bases de données;
+    v. Outils d'analyse comportementale, d'analyse de logs ou d'audit;
 
-   vi. una evaluación de los riesgos que representa esta violación para mí;
+9. En ce qui concerne les employés et les entrepreneurs, veuillez indiquer ce qui suit :
 
-   vii. una descripción de medidas que han tomado o tomarán para prevenir otro acceso
-   no autorizado a mis datos personales;
+    a. Quelles technologies ou procédures commerciales avez-vous pour vous assurer que les personnes au sein de votre organisation seront surveillées afin de vous assurer qu'elles ne divulguent pas délibérément ou par inadvertance des données personnelles en dehors de votre entreprise, par courriel, messagerie Web ou messagerie instantanée, ou autre.
 
-   viii. los datos de contacto para obtener más informaciones y asistencia en relación con
-   dicha violación; e
+    b. Avez-vous eu des circonstances dans lesquelles des employés ou des sous-traitants ont été congédiés et/ou ont été inculpés en vertu des lois pénales pour avoir accédé à mes données personnelles de manière inappropriée, ou si vous êtes incapable de le déterminer, de clients au cours des 12 derniers mois.
 
-   ix. información y recomendaciones sobre lo que puedo hacer para protegerme de
-   cualquier daño, incluido el robo de identidad y el fraude.
+    c. Veuillez indiquer les mesures de formation et de sensibilisation que vous avez prises afin de vous assurer que les employés et les sous-traitants accèdent à mes données personnelles et les traitent conformément au règlement général sur la protection des données.
 
-   b) Si no pueden determinar con certeza si se produjo una violación de la seguridad de los
-   datos personales a pesar del uso de tecnologías apropiadas y disponibles, les pido que
-   me informen qué medidas han tomado para reducir la posibilidad de que esta violación
-   se repita, por ejemplo:
-
-   i. cifrar mis datos personales;
-
-   ii. adoptar la estrategia de minimización de los datos; o
-
-   iii. aplicar anonimización o seudonimización en mis datos personales; o
-
-   iv. cualquiera otra medida
-
-8) Proporcionenme la información sobre la política y el marco de la protección de datos personales con los que cumplirán en relación con la protección de mis datos personales, como por ejemplo si cumple con la norma ISO 27001 de la seguridad de información, y en particular:
-
-   a) Les pido que me informen si han realizado una copia de seguridad y la han guardado
-   en una cinta, disco u otro medio, dónde la guardan o guardaron y cómo la protegen o
-   protegieron, incluidos los pasos que han tomado para proteger mis datos personales
-   de pérdida o robo y si la protección incluye cifrado.
-
-   b) También me informen si utilizan o han utilizado alguna tecnología que les permita, con
-   razonable confianza, determinar si mis datos personales han sido difundidos, incluidas
-   las siguientes informaciones:
-
-   i. Sistemas de prevención de intrusos;
-
-   ii. Tecnología Firewall;
-
-   iii. Tecnología de la administración de identidades;
-
-   iv. Auditoría de bases de datos y/o herramientas de seguridad; o
-
-   v. Herramientas de análisis de comportamiento, herramientas de análisis de protocolo o herramientas de auditoría.
-
-9) En cuanto a los empleados y proveedores, informenme sobre lo siguiente:
-
-   a) Qué tecnologías o medidas han adoptado o adoptaron para garantizar o prevenir que
-   individuales en su compañía difundan, de manera deliberada o no, mis datos
-   personales fuera de su compañía, por correo electrónico, correo web, servicio de
-   mensajería instantánea o de otra manera.
-
-   b) Si ha ocurrido que los empleados o proveedores hayan sido despedidos o se terminó la
-   cooperación con ellos y/o hayan sido acusados de cometer un crimen o delito en
-   relación con acceso y tratamiento no autorizado de mis datos personales. Si no lo
-   puede seguramente identificar en relación con mi persona, infórmenme si tal evento
-   ocurrió en algunos de sus clientes en los últimos doce meses.
-
-   c) Por favor, infórmenme sobre los talleres o medidas educativas que han adoptado para
-   asegurar que los empleados y los proveedores pueden o han podido acceder y tratar
-   mis datos personales de conformidad con el RGPD.
-
-Para terminar, me gustaría mencionar que espero que me respondan a mi solicitud sin dilación
-indebida, en el plazo de un máximo de un mes a partir de la recepción (de conformidad con el
-artículo 12 del RGPD). En otro caso, entregaré mi impulso y la información sobre su dilación del
-cumplimiento de su obligación a autoridades competentes de protección de datos. Si requieren
-más información de mi parte para que me puedan identificar como un interesado, no duden
-ponerse en contacto conmigo, les proporcionaré informaciones adicionales o colaboración
-necesaria con placer.
+Enfin, je voudrais que vous sachiez avant tout que je prévois une réponse à ma demande dans un délai maximum d'un mois, comme l'exige l'article 12 du PVRI, faute de quoi je ferai parvenir ma demande avec une lettre de réclamation aux autorités compétentes de protection des données. Au cas où vous ne seriez pas en mesure de répondre à ma demande dans un délai déterminé et que, dans le cadre des mesures prévues par le GDPR, le délai doit être prolongé en raison de la complexité de ma demande, veuillez répondre à mes questions dans toute la mesure du possible pendant le délai initial de un mois. Si vous avez besoin d'informations supplémentaires de ma part afin de m'identifier comme étant l'objet d'un traitement de données de votre part, veuillez me contacter immédiatement.
 
 Cordialement,
 
