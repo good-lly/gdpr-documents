@@ -1,7 +1,9 @@
 {
-  "dependencies": {
-    "highlight.js@":"^10.4.1",
-    "markdown-pdf": "^10.0.0",
-    "remarkable-classy": "^0.0.1"
-  }
+    "dependencies": {
+        "markdown-pdf": "^10.0.0",
+        "remarkable-classy": "^0.0.1"
+    },
+    "resolutions": {
+        "markdown-pdf/highlight.js": "10.4.1"
+    }
 }
